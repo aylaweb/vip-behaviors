@@ -1,0 +1,36 @@
+{
+    "name": "vip-behavior-elements",
+    "version": "0.1.0",
+    "description": "A set of behavioral elements for Ayla",
+    "keywords": [
+        "web-components",
+        "polymer",
+        "Ayla"
+    ],
+    "dependencies": {
+        "vip-init-behavior": "git@github.com:aylaweb/vip-init-behavior.git#^0.1",
+        "vip-elem-behavior": "git@github.com:aylaweb/vip-elem-behavior.git#^0.1",
+        "vip-style-behavior": "git@github.com:aylaweb/vip-style-behavior.git#^0.1",
+        "vip-data-meteor-behavior": "git@github.com:aylaweb/vip-data-meteor-behavior.git#^0.1",
+        "vip-data-ajax-behavior": "git@github.com:aylaweb/vip-data-ajax-behavior.git#^0.1",
+        "vip-data-json-behavior": "git@github.com:aylaweb/vip-data-json-behavior.git#^0.1",
+        "vip-anima-behavior": "git@github.com:aylaweb/vip-anima-behavior.git#^0.1",
+        "vip-react-behavior": "git@github.com:aylaweb/vip-react-behavior.git#^0.1",
+        "vip-onoff-behavior": "git@github.com:aylaweb/vip-onoff-behavior.git#^0.1",
+        "vip-seektime-behavior": "git@github.com:aylaweb/vip-seektime-behavior.git#^0.1",
+        "vip-resize-sensor-behavior": "git@github.com:aylaweb/vip-resize-sensor-behavior.git#^0.1",
+        "vip-injection-behavior": "git@github.com:aylaweb/vip-injection-behavior.git#^0.1",
+        "vip-visual-force-behavior": "git@github.com:aylaweb/vip-visual-force-behavior.git#^0.1"
+    },
+    "authors": [
+        "The Ayla Authors"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "main": "vip-behavior-elements.html"
+}
