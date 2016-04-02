@@ -8,19 +8,19 @@
         "Ayla"
     ],
     "dependencies": {
-        "vip-init-behavior": "https://github.com/aylaweb/vip-init-behavior.git#^0.1",
-        "vip-elem-behavior": "https://github.com/aylaweb/vip-elem-behavior.git#^0.1",
-        "vip-style-behavior": "https://github.com/aylaweb/vip-style-behavior.git#^0.1",
-        "vip-data-meteor-behavior": "https://github.com/aylaweb/vip-data-meteor-behavior.git#^0.1",
-        "vip-data-ajax-behavior": "https://github.com/aylaweb/vip-data-ajax-behavior.git#^0.1",
-        "vip-data-json-behavior": "https://github.com/aylaweb/vip-data-json-behavior.git#^0.1",
-        "vip-anima-behavior": "https://github.com/aylaweb/vip-anima-behavior.git#^0.1",
-        "vip-react-behavior": "https://github.com/aylaweb/vip-react-behavior.git#^0.1",
-        "vip-onoff-behavior": "https://github.com/aylaweb/vip-onoff-behavior.git#^0.1",
-        "vip-seektime-behavior": "https://github.com/aylaweb/vip-seektime-behavior.git#^0.1",
-        "vip-resize-sensor-behavior": "https://github.com/aylaweb/vip-resize-sensor-behavior.git#^0.1",
-        "vip-injection-behavior": "https://github.com/aylaweb/vip-injection-behavior.git#^0.1",
-        "vip-visual-force-behavior": "https://github.com/aylaweb/vip-visual-force-behavior.git#^0.1"
+        "vip-init-behavior": "https://github.com/aylaweb/vip-init-behavior.git",
+        "vip-elem-behavior": "https://github.com/aylaweb/vip-elem-behavior.git",
+        "vip-style-behavior": "https://github.com/aylaweb/vip-style-behavior.git",
+        "vip-data-meteor-behavior": "https://github.com/aylaweb/vip-data-meteor-behavior.git",
+        "vip-data-ajax-behavior": "https://github.com/aylaweb/vip-data-ajax-behavior.git",
+        "vip-data-json-behavior": "https://github.com/aylaweb/vip-data-json-behavior.git",
+        "vip-anima-behavior": "https://github.com/aylaweb/vip-anima-behavior.git",
+        "vip-react-behavior": "https://github.com/aylaweb/vip-react-behavior.git",
+        "vip-onoff-behavior": "https://github.com/aylaweb/vip-onoff-behavior.git",
+        "vip-seektime-behavior": "https://github.com/aylaweb/vip-seektime-behavior.git",
+        "vip-resize-sensor-behavior": "https://github.com/aylaweb/vip-resize-sensor-behavior.git",
+        "vip-injection-behavior": "https://github.com/aylaweb/vip-injection-behavior.git",
+        "vip-visual-force-behavior": "https://github.com/aylaweb/vip-visual-force-behavior.git"
     },
     "authors": [
         "The Ayla Authors"
